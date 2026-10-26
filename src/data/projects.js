@@ -34,7 +34,7 @@ export const projects = [
       es: "Sitio web donde se pueden buscar películas y ver su información. Además cumple con una sección de categorías.",
       en: "Website where movies can be searched and see their information. Furthermore, it has a category section.",
     },
-    tags: ["JavaScript Vanilla", "HTML"],
+    tags: ["JavaScript Vanilla"],
     repo: "https://github.com/gianprocopio/movies-app",
     demo: "https://giansmovies.netlify.app/",
   },
