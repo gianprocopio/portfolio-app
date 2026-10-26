@@ -28,7 +28,7 @@ export const profile = {
 
   contact: {
     email: "gianlucaprocopioe@gmail.com",
-    linkedin: "https://www.linkedin.com/in/tu-perfil",
+    linkedin: "https://www.linkedin.com/in/gianluca-procopio/",
     // github: "https://github.com/tu-usuario", // descomentá si querés mostrarlo
   },
 };

@@ -14,7 +14,7 @@ export default function Contact() {
         <p>{t("contactText")}</p>
         <div className="btns btns--center">
           <a className="btn btn--primary" href={`mailto:${email}`}>
-            {email}
+            E-mail
           </a>
           <a className="btn" href={linkedin} target="_blank" rel="noreferrer">
             LinkedIn ↗
