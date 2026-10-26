@@ -1,0 +1,29 @@
+/* Colores y tamaños. Cambiando estos valores cambia todo el sitio. */
+
+:root {
+  --bg: #0e1116;
+  --surface: #161b22;
+  --border: #262d38;
+  --text: #e6e9ef;
+  --muted: #9aa4b2;
+  --accent: #5eead4;
+  --accent-ink: #062b26;
+
+  --font-sans: "Inter", system-ui, sans-serif;
+  --font-mono: "JetBrains Mono", monospace;
+
+  --radius: 12px;
+  --container: 960px;
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+    --bg: #f7f8fa;
+    --surface: #ffffff;
+    --border: #e2e6ec;
+    --text: #141922;
+    --muted: #5b6676;
+    --accent: #0f766e;
+    --accent-ink: #ffffff;
+  }
+}
